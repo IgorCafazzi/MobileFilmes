@@ -1,5 +1,5 @@
 # ToyGame
-* Integrantes:
+* **Integrantes:**
   
   Igor Cafazzi
   
