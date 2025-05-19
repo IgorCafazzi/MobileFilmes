@@ -24,3 +24,5 @@
   - [Mapa de Navegação](https://github.com/IgorCafazzi/MobileFilmes/wiki/Mapa-de-Navega%C3%A7%C3%A3o)
 
   - [Descrição da Aplicação](https://github.com/IgorCafazzi/MobileFilmes/wiki/Descri%C3%A7%C3%A3o-da-Aplica%C3%A7%C3%A3o)
+    
+  - [Widgets](https://github.com/IgorCafazzi/MobileFilmes/wiki/Widgets)
