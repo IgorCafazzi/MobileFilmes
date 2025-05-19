@@ -15,33 +15,6 @@
   Ao clicar nas imagens do menu principal, o usuário será redirecionado à pagina específica do filme. Nela, ele pode arrastar o dedo e mudar as telas entre a entrada, informações e galeria de imagens. <br>
   Todas as telas contém um botão para voltar ao menu inicial.
 
-* **Widgets Necessários**
-  
-  **1. Text:** <br>
-      Para mostrar as informações e títulos da interface.
-      
-  **2. Column:** <br>
-      Para ordenar as imagens verticalmente.
-
-      
-  **3. Row:** <br>
-      Para ordenar as imagens horizontalmente.
-      
-  **4. Container:** <br>
-      Para conter multiplos textos e facilitar sua estilização.
-      
-  **5. ElevatedButton:**<br>
-      Para adicionar o botão "Voltar" nas telas dos filmes.
-      
-  **6. Navigator:** <br>
-      Para permitir navegação entre as diferentes telas.
-      
-  **7. Image:** <br>
-      Para colocar as imagens dos filmes em suas páginas.
-      
-  **8. IconButton:** <br>
-      Para adicionar as imagens-botões do menu principal.<br>
-
 * **Links da Wiki:**
 
   - [Home](https://github.com/IgorCafazzi/MobileFilmes/wiki)
