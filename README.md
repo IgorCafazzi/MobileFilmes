@@ -11,4 +11,5 @@
 
   
 * **Links da Wiki:**
+  [Home](https://github.com/IgorCafazzi/MobileFilmes/wiki)
   [Protótipo do Site Mobile](https://github.com/IgorCafazzi/MobileFilmes/wiki/Prot%C3%B3tipo-do-Site-Mobile)
