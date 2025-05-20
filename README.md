@@ -8,12 +8,6 @@
   
   Protótipo do site mobile da mostra cultural. Apresenta os filmes Toy Story, Flow, Extraordinário e Sonhos Roubados, cada um com suas informações (sinopse, direção, produção, empresa, studio, gênero, dados de lançamento, elenco e links) e galeria de imagens para dar uma noção visual de cada filme.
 
-* **Mapa de Navegação**
-  
-  <img src="Navegacao.png">
-  
-  Ao clicar nas imagens do menu principal, o usuário será redirecionado à pagina específica do filme. Nela, ele pode arrastar o dedo e mudar as telas entre a entrada, informações e galeria de imagens. <br>
-  Todas as telas contém um botão para voltar ao menu inicial.
 
 * **Links da Wiki:**
 
