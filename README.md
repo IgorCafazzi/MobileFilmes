@@ -28,3 +28,5 @@
   - [Descrição da Aplicação](https://github.com/IgorCafazzi/MobileFilmes/wiki/Descri%C3%A7%C3%A3o-da-Aplica%C3%A7%C3%A3o)
     
   - [Widgets](https://github.com/IgorCafazzi/MobileFilmes/wiki/Widgets)
+ 
+  - [Código](https://github.com/IgorCafazzi/MobileFilmes/wiki/C%C3%B3digo)
