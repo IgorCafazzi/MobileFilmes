@@ -29,6 +29,6 @@
     
   - [Widgets](https://github.com/IgorCafazzi/MobileFilmes/wiki/Widgets)
  
-  - [Código e Desenvolvimento](https://github.com/IgorCafazzi/MobileFilmes/wiki/C%C3%B3digo)
+  - [Desenvolvimento do Projeto](https://github.com/IgorCafazzi/MobileFilmes/wiki/C%C3%B3digo)
  
   - [Video e Imagens de Navegação](https://github.com/IgorCafazzi/MobileFilmes/wiki/V%C3%ADdeo-e-Imagens-de-Navega%C3%A7%C3%A3o)
