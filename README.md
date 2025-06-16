@@ -9,6 +9,12 @@
   Protótipo do site mobile da mostra cultural. Apresenta os filmes Toy Story, Flow, Extraordinário e Sonhos Roubados, cada um com suas informações (sinopse, direção, produção, empresa, studio, gênero, dados de lançamento, elenco e links) e galeria de imagens para dar uma noção visual de cada filme.
 
 
+* **Relatório: 
+Igor Cafazzi: Fez as páginas dos filmes, galeria de imagens e uma parte da documentação.
+
+Igor Michelini: Fez a página inicial e outra parte da documentação
+
+
 * **Links da Wiki:**
 
   - [Home](https://github.com/IgorCafazzi/MobileFilmes/wiki)
