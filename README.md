@@ -10,7 +10,7 @@
 
 
 * **Relatório:**
-* 
+  
 Igor Cafazzi: Fez as páginas dos filmes, galeria de imagens e uma parte da documentação.
 
 
