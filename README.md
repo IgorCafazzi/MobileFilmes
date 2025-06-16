@@ -1,34 +1,16 @@
-# ToyGame
-* **Integrantes:**
-  
-  - Igor Cafazzi
-  - Igor Michelini
+# trabalhoalinemobile
 
-* **Descrição do Projeto:**
-  
-  Protótipo do site mobile da mostra cultural. Apresenta os filmes Toy Story, Flow, Extraordinário e Sonhos Roubados, cada um com suas informações (sinopse, direção, produção, empresa, studio, gênero, dados de lançamento, elenco e links) e galeria de imagens para dar uma noção visual de cada filme.
+A new Flutter project.
 
+## Getting Started
 
-* **Relatório:**
-  
-  Igor Cafazzi: Fez as páginas dos filmes, galeria de imagens e uma parte da documentação.
+This project is a starting point for a Flutter application.
 
+A few resources to get you started if this is your first Flutter project:
 
-  Igor Michelini: Fez a página inicial e outra parte da documentação
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-
-* **Links da Wiki:**
-
-  - [Home](https://github.com/IgorCafazzi/MobileFilmes/wiki)
-  
-  - [Protótipo do Site Mobile](https://github.com/IgorCafazzi/MobileFilmes/wiki/Prot%C3%B3tipo-do-Site-Mobile)
-
-  - [Mapa de Navegação](https://github.com/IgorCafazzi/MobileFilmes/wiki/Mapa-de-Navega%C3%A7%C3%A3o)
-
-  - [Descrição da Aplicação](https://github.com/IgorCafazzi/MobileFilmes/wiki/Descri%C3%A7%C3%A3o-da-Aplica%C3%A7%C3%A3o)
-    
-  - [Widgets](https://github.com/IgorCafazzi/MobileFilmes/wiki/Widgets)
- 
-  - [Desenvolvimento do Projeto](https://github.com/IgorCafazzi/MobileFilmes/wiki/C%C3%B3digo)
- 
-  - [Video e Imagens de Navegação](https://github.com/IgorCafazzi/MobileFilmes/wiki/V%C3%ADdeo-e-Imagens-de-Navega%C3%A7%C3%A3o)
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
