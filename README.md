@@ -11,10 +11,10 @@
 
 * **Relatório:**
   
-Igor Cafazzi: Fez as páginas dos filmes, galeria de imagens e uma parte da documentação.
+  Igor Cafazzi: Fez as páginas dos filmes, galeria de imagens e uma parte da documentação.
 
 
-Igor Michelini: Fez a página inicial e outra parte da documentação
+  Igor Michelini: Fez a página inicial e outra parte da documentação
 
 
 * **Links da Wiki:**
