@@ -32,3 +32,7 @@
   - [Desenvolvimento do Projeto](https://github.com/IgorCafazzi/MobileFilmes/wiki/Desenvovimento-do-Projeto)
  
   - [Video e Imagens de Navegação](https://github.com/IgorCafazzi/MobileFilmes/wiki/V%C3%ADdeo-e-Imagens-de-Navega%C3%A7%C3%A3o)
+
+
+
+As pastas do Projeto estão na branch "projeto"
