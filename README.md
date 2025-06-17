@@ -35,4 +35,4 @@
 
 
 
-As pastas do Projeto estão na branch "projeto"
+As pastas do projeto estão na branch "projeto"
